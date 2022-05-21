@@ -1,0 +1,12 @@
+kafka:
+  username: "3c93ybgp"
+  password: "TBhWalt0Kl3BiTYhBDjXFUwtEeQgNP7l"
+  bss: "rocket-01.srvs.cloudkafka.com:9094,rocket-02.srvs.cloudkafka.com:9094,rocket-03.srvs.cloudkafka.com:9094"
+  topic:
+    message: "3c93ybgp-message"
+    batch: "3c93ybgp-batch"
+    consume: "3c93ybgp-consume"
+  group:
+    message: "msg"
+    batch: "bmsg"
+    consume: "consume"
